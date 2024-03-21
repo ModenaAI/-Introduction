@@ -8,7 +8,7 @@ Modena AI Token ($MOD) serves as the backbone of the Modena AI ecosystem, drivin
 Features
 
     Utility Token: $MOD facilitates transactions, governance, and participation within the Modena AI network.
-    BEP-20 Standard: Built on the BEP-20 standard, ensuring compatibility with various decentralized exchanges and wallets.
+    ERC-20 Standard: Built on the ERC-20 standard, ensuring compatibility with various decentralized exchanges and wallets.
     Dynamic Tokenomics: $MOD's tokenomics support liquidity, team development, staking rewards, exchange listings, and DAPP evolution.
     Vibrant Community: Join a thriving community actively shaping the future of decentralization.
 
